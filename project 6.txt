@@ -1,0 +1,4 @@
+﻿18:50:52:976	'ConsoleApp21.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+18:50:52:976	'ConsoleApp21.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\LENOVO L15 13G\source\repos\C# Project\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe'. Symbols loaded.
+18:50:53:221	'ConsoleApp21.exe' (CLR v4.0.30319: ConsoleApp21.exe): Loaded 'C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\Remote Debugger\x86\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+18:51:28:412	The program '[23120] ConsoleApp21.exe' has exited with code 0 (0x0).
